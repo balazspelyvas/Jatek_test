@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Jatek:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/Jatek_jar2</output-path>
+    <root id="archive" name="Jatek.jar">
+      <element id="module-output" name="Jatek" />
+    </root>
+  </artifact>
+</component>
