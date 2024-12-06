@@ -16,7 +16,7 @@ public class Game {
                 continue;
             }
 
-            if (board.checkWin('Y')) {
+            if (board.checkWin('S')) {
                 System.out.println("Sárga nyert!");
                 break;
             }
